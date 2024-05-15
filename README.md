@@ -4,4 +4,4 @@ analizi ve öngörü modelleri sunar. Veri toplama sensörleri, uydu görüntül
 diğer kaynaklardan gelen verileri kullanarak su kaynaklarının durumunu izler ve analiz eder. Bu 
 veriler, yapay zekâ ve makine öğrenmesi algoritmalarıyla işlenerek su kaynaklarıyla ilgili çeşitli 
 sonuçlar ve tahminler üretir. Proje TÜBİTAK tarafından destek kazanmış bulunmaktadır. Hayata 
-geçirilme sürecindedir. Bu proje aynı zamanda bitirme projesi olarak kullanılacaktır.
+geçirilme sürecindedir. Bu proje aynı zamanda bitirme tezi olarak kullanılacaktır.
